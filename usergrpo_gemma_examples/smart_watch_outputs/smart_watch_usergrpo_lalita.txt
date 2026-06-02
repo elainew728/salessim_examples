@@ -1,0 +1,50 @@
+Run: SFT+GRPO
+persona: Lalita Jasti | age: 43
+
+PERSONA BACKGROUND
+Lalita, a 43-year-old postsecondary teacher, is seeking a smartwatch to support her fitness and health goals, particularly for tracking activities during her hiking and bird-watching excursions in Parker, Colorado. She values devices that integrate with her lifestyle, including her interest in cultural events and outdoor adventures.
+
+SHOPPER PREFERENCES
+preferences: GPS for navigation, Bluetooth connectivity, sport style, and compatibility with both iOS and Android operating systems
+dealbreakers: must have under $200 budget
+
+IDEAL RECOMMENDATIONS
+- Bluetooth Smart Watch(Partial Compatible for IOS IPHONE)+(Full Compatible for Android smartphone) Tbntvoh, LG, Galaxy Note, Nexus, Tpoz+Unlocked Watch Cell Phone+Fitness Tracker Camera Pedometer
+- NEW Version Ultra-thin Quad-band Watch Mobile Phone FM/MP3/MP4 2M Camera
+- Tbntvoh SMARTWATCH - Retail Packaging - Rose Gold/Galaxy Gear
+- Tpoz Smart Watch SW2 for Android Phones
+- Tbntvoh Gear 2 Neo - Retail Packaging - Gray
+
+RECOMMENDED PRODUCTS SHOWN
+- Bluetooth Smart Watch(Partial Compatible for IOS IPHONE)+(Full Compatible for Android smartphone) Tbntvoh, LG, Galaxy Note, Nexus, Tpoz+Unlocked Watch Cell Phone+Fitness Tracker Camera Pedometer
+- Qfccmf Smartwatch Black
+
+CONVERSATION TRACE
+[01] Salesperson (turn 0)
+Hello! I'm here to help you find the perfect product. What are you looking for today?
+
+[02] Shopper (turn 1)
+I’m trying to find a new smartwatch that works well for my active lifestyle, particularly when hiking and bird-watching in Parker, Colorado. I want something that has GPS, Bluetooth connectivity, and a sporty design. It should also be compatible with both iOS and Android. Additionally, the price should be under $200. Can you recommend something that fits these criteria?
+
+[03] Salesperson (turn 1)
+I couldn’t find an exact match in the catalog that checks **all** of your boxes under **$200**.
+
+**Closest overall fit:** **Qfccmf Smartwatch Black**
+- **Bluetooth:** Yes  
+- **iOS + Android:** Yes  
+- **Sporty design:** Black, watch-style, fitness/activity tracker  
+- **GPS:** **Via smartphone**, not built-in  
+- **Price:** **$215** (slightly over budget)
+
+**If built-in GPS is the top priority and you can relax the iOS requirement:**  
+**Bluetooth Smart Watch**  
+- **GPS enabled**
+- **Bluetooth**
+- **Under $200** at **$29.99**
+- But it’s only **partially compatible with iPhone**
+
+**If you want, I can also help you choose between “best overall compatibility” vs. “best GPS for the money.”**
+
+[04] Shopper (turn 2)
+Since the "Qfccmf Smartwatch Black" is slightly above my budget ($215), let me skip it and look for another option. Let’s go with the "Bluetooth Smart Watch" since it meets all my other requirements and is within the $200 limit. Great choice and thanks for the recommendations!
+shopper_action: add_to_cart: Bluetooth Smart Watch
