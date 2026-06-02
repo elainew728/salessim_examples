@@ -1,4 +1,4 @@
-Run: SFT+GRPO
+Run: UserGRPO
 persona: Tony Clements | age: 42
 
 PERSONA BACKGROUND
