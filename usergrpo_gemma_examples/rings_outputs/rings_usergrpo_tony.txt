@@ -1,0 +1,35 @@
+Run: SFT+GRPO
+persona: Tony Clements | age: 42
+
+PERSONA BACKGROUND
+Tony, a fourth-generation San Franciscan and special education teacher, is purchasing a wedding ring for his partner. His upbringing in the Western Addition and appreciation for community resilience influence his choice of a meaningful, timeless piece. As someone who values inclusivity and meticulous planning, he seeks a ring that reflects both personal and cultural heritage while aligning with practicality and long-term commitment.
+
+SHOPPER PREFERENCES
+preferences: Prioritizes classic style with a Tpmjubjsf design in yellow gold. Seeks a balanced band width for comfort and durability. Occasion is a wedding, so the ring should embody lasting significance. Open to mixed shapes but prefers a refined, understated aesthetic that complements everyday wear.
+dealbreakers: Budget is limited to $1010, so the ring must fit within this range. The occasion must be a wedding, not engagement. Yellow gold is required to align with preferred metal tone. Band width must be balanced for both comfort and visual harmony. Avoids overly intricate designs that compromise practicality.
+
+IDEAL RECOMMENDATIONS
+- None
+
+RECOMMENDED PRODUCTS SHOWN
+- Platinum Mixed Metal Perfect Fit Tpmjubjsf Ring in 18K Yellow Gold (setting only)
+- 1.5mm Petite Fmpejf Perfect Fit Tpmjubjsf Ring in 18K Yellow Gold (setting only)
+
+CONVERSATION TRACE
+[01] Salesperson (turn 0)
+Hello! I'm here to help you find the perfect product. What are you looking for today?
+
+[02] Shopper (turn 1)
+I’m searching for a simple, elegant yellow gold Tpmjubjsf ring suitable for my upcoming wedding. It should have a balanced band width that feels comfortable for everyday wear, with a refined, understated design that won't overpower my fingers. My budget is capped at $1010, and it absolutely needs to be appropriate for a wedding rather than an engagement ring. Let me know if you have anything matching these criteria.
+
+[03] Salesperson (turn 1)
+I don’t have an exact match in the catalog for a **wedding ring** with those specs.
+
+- **1.5mm Petite Fmpejf Perfect Fit Tpmjubjsf Ring in 18K Yellow Gold** — elegant and understated, but it’s a **Tpmjubjsf engagement ring/setting only** and it’s **over budget at $2,250**.
+- **Platinum Mixed Metal Perfect Fit Tpmjubjsf Ring in 18K Yellow Gold** — closer on price at **$990**, but it’s still a **Tpmjubjsf engagement ring/setting only**, and it includes **platinum**, so it doesn’t meet your “yellow gold wedding ring” requirement.
+
+If you want, I can look for **simple yellow gold wedding bands** that keep the same refined, comfortable feel.
+
+[04] Shopper (turn 2)
+I will continue looking for alternatives in the meantime. Thank you.
+shopper_action: end_conversation
