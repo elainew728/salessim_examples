@@ -1,0 +1,40 @@
+Run: SFT
+persona: David | age: 35
+
+PERSONA BACKGROUND
+David needs jeans for work and casual outings, including community events and trips. He requires a versatile fit that works for both professional and leisure activities.
+
+SHOPPER PREFERENCES
+preferences: The jeans should have a loose fit with a medium rise for comfort and mobility. They must be durable to withstand active use, such as playing softball and exploring urban environments. The budget is limited to $300.
+dealbreakers: The jeans must be made from breathable fabric to accommodate seasonal changes. They need to be suitable for both casual and professional settings. The total cost must not exceed $300.
+
+IDEAL RECOMMENDATIONS
+- Mfwjt Relaxed Straight Fit Jean
+- Mfwjt 505 Blue Tab Regular Fit Jean
+- Mfwjt 501 Original Fit Jean
+
+RECOMMENDED PRODUCTS SHOWN
+- Mfwjt 501 Original Fit Jean
+- CEH Relaxed Straight Fit Jean
+
+CONVERSATION TRACE
+[01] Salesperson (turn 0)
+Hello! I'm here to help you find the perfect product. What are you looking for today?
+
+[02] Shopper (turn 1)
+I’m seeking jeans that are comfortable, durable, and versatile enough for both work and casual occasions—like softball games and exploring the city. I want a relaxed fit with a medium rise, suitable for all-day wear. My budget is under $300, and they need to be made from a breathable fabric. Can you recommend something that fits these criteria?
+
+[03] Salesperson (turn 1)
+Absolutely — do you prefer a classic denim look, or are you open to a more stretchy/technical fabric if it’s more breathable and comfortable for all-day wear?
+
+[04] Shopper (turn 2)
+Let me narrow down my choices – since I prefer breathability with stretch, what options do you have in that style that match my other requirements?
+
+[05] Salesperson (turn 2)
+I found two close matches, but I should note that **none of the jeans in stock are a stretch blend** — they’re all 100% cotton. The **best overall fit** for your needs is the **CEH Relaxed Straight Fit Jean**: **mid-rise, relaxed through the hip, machine washable, versatile, and $69**.
+
+If you want a slightly more classic option, the **Mfwjt 501 Original Fit Jean** is also **mid-rise and versatile**, but it’s **rigid non-stretch denim**, so it may feel less comfortable for all-day wear. If stretch is a must-have, I’d keep looking outside this set.
+
+[06] Shopper (turn 3)
+Since none of the current styles include the stretch feature that's important for all-day comfort and breathability, I will keep searching until I find the right fit. Thank you for the recommendation!
+shopper_action: end_conversation
