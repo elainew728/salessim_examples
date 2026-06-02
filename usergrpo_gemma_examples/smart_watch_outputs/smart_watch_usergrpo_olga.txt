@@ -1,4 +1,4 @@
-Run: SFT+GRPO
+Run: UserGRPO
 persona: Olga Diaz | age: 37
 
 PERSONA BACKGROUND
